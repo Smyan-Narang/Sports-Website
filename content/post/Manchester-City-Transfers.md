@@ -1,6 +1,6 @@
 ---
 title: Sensible Transfers, Manchester City
-date: 2024-08-7
+date: 2024-08-07
 hero: /Users/smyannarang/Downloads/old-website-master/static/images/Manchester_City_FC_badge.svg.webp
 excerpt: Who Should Manchester City sign this window
 timeToRead: 2
