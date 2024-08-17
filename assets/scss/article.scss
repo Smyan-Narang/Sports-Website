@@ -137,6 +137,8 @@
 
 .article-hero-image{
     position: absolute;
+    display: flex;
+    justify-content: center;
     z-index: 1;
     width: 50%;
     max-width: 944px;
