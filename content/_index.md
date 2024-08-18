@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Enter the den of the chadmin.
+  heading: SFC Sports.
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg

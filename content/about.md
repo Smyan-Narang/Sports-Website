@@ -2,14 +2,12 @@
 title: About
 ---
 
-Hey. I'm Kavin. Tech Enthusiast and Dank Memer.
+Hey. I'm Smyan Narang, a tech enthusiast and sports enthusiast who plans to pursue Computer Science in University. 
 
-I’m a senior in high school in India in the STEM Field.
+My interest in technology and Computer Science grew a lot during the pandemic, and I've always been a football and cricket 
 
-My interests lie at the intersection of Math, Science, Computer Science and Information Technology. I’m attracted to STEM because of my organized, analytical and goal-oriented nature. In addition to my academic achievements, I am proud to actively contribute to the Tech Cohort of our time.
+enthusiast from a young age. I'm currently in 12th Grade at Scottish High International School and I'm graduating in 2025. 
 
-Fast forward to today, and I've co-founded and directed a National Tech Symposium, founded and presided over my School's Tech Club, and become the IT Captain of my School.
+I currently serve as the Deputy Head Boy of Scottish High International School and I am also the president of the Computer Science 
 
-My main focus these days is working towards getting into a good college, pursuing my passion in the field of Tech, and becoming a better individual.
-
-By the way, I love playing basketball, football, swimming, listening to Dua Lipa and taking long walks at night.
+club as well as the advisor to our annual tech event SHISTECH. 
