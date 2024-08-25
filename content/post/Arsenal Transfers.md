@@ -1,7 +1,7 @@
 ---
 title: Sensible Transfers:Arsenal
 date: 2024-08-20
-hero: /images/Arsenal_F.C.-Logo.wine-removebg-preview.png
+hero: /images/arsenal-logo-removebg-preview (1).png
 excerpt: Who Should Arsenal sign this window
 timeToRead: 2
 authors:
