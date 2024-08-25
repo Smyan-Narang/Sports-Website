@@ -1,8 +1,8 @@
 ---
 title: Sensible Transfers:Arsenal
 date: 2024-08-20
-hero: /images/Arsenal_FC.svg.webp
-excerpt: Who Should Manchester City sign this window
+hero: /images/arsenal-logo-icon-template.webp
+excerpt: Who Should Arsenal sign this window
 timeToRead: 2
 authors:
   - Smyan Narang

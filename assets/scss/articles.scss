@@ -312,6 +312,8 @@
 .image-container{
     display: -webkit-box;
     display: -ms-flexbox;
+    max-height: 300px;
+    max-width: 300px;
     display: flex;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -321,6 +323,7 @@
             align-items: center;
     overflow: hidden;
     position: relative;
+;
     -webkit-box-shadow: 0 30px 60px -10px rgba(0, 0, 0, 0.22),
       0 18px 36px -18px rgba(0, 0, 0, 0.25);
             box-shadow: 0 30px 60px -10px rgba(0, 0, 0, 0.22),
@@ -364,9 +367,8 @@
     -ms-flex-negative: 0;
         flex-shrink: 0;
     max-width: 100%;
-    min-height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    max-height: 100%;
+    object-fit: contain;
 }
 
 .article-title{
