@@ -1,7 +1,7 @@
 ---
-title: Sensible Transfers:Manchester City
+title: Sensible Transfers:Arsenal
 date: 2024-08-20
-#hero: /images/Manchester_City_FC_badge.svg.webp
+hero: /images/Arsenal_FC.svg.webp
 excerpt: Who Should Manchester City sign this window
 timeToRead: 2
 authors:
