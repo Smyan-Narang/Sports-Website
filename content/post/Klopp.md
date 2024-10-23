@@ -27,5 +27,4 @@ In fact, these football beliefs hold true even today, with vastly different squa
 
 This is even clearer in their pressing, with Liverpool still having the most aggressive and efficient press in the league, having the lowest Passes per defensive action(PPDA) in the league, meaning that they are the fastest team to win the ball back, while Man city, still on the upper end of the spectrum, have a very controlled press
 
-
 The end result is the same for both managers: Lots of goals, beautiful football, lots of trophies, and an incredible rivalry. To counter Pep’s structure and control, Klopp has his unpredictability and heavy metal football. With the Pep-Klopp Citypool era coming to an end this summer, I doubt that we will ever see two managers so incredibly successful, yet so perfectly opposite to each other. It truly was a rivalry for the ages. 
