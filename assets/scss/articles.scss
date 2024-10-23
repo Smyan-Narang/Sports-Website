@@ -525,11 +525,6 @@
       border-radius: 5px;
     }
 
-    /*DESKTOP MEDIUM*/
-    @media screen and (max-width: $desktop_medium){
-      max-width: 48.5%;
-    }
-
     /*TABLET*/
     @media screen and (max-width: $tablet){
       min-width: 80% !important;
@@ -572,9 +567,6 @@
   max-width: 58.5% !important; 
 
   /*DESKTOP MEDIUM*/
-  @media screen and (max-width: $desktop_medium){
-    max-width: 48.5% !important;
-  }
 }
 
 .articles-list-container-alt{
@@ -610,14 +602,6 @@
           -webkit-box-pack: justify;
               -ms-flex-pack: justify;
                   justify-content: space-between;
-  
-          .image-container{
-            max-width: 50%;
-          }
-        
-          .article-data{
-            width: 50%;
-          }
         }
       }
     
