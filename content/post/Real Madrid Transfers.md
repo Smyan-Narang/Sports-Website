@@ -1,7 +1,7 @@
 ---
 title: Sensible Transfers:Real Madrid
 date: 2024-07-31
-hero: /images/Real_Madrid_CF.png
+hero: /images/madridlogo.webp
 excerpt: Who Should Real Madrid sign this window
 timeToRead: 2
 authors:
