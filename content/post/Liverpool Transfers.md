@@ -1,7 +1,7 @@
 ---
 title: Sensible Transfers:Liverpool
 date: 2024-07-28
-hero: /images/Manchester_City_FC_badge.svg.webp
+hero: /images/madridlogo.webp
 excerpt: Who Should liverpool sign this window
 timeToRead: 2
 authors:
