@@ -157,6 +157,9 @@
 }
 
 .articles-list-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     -webkit-transition: opacity 0.25s;
     -o-transition: opacity 0.25s;
     transition: opacity 0.25s;
