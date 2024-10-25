@@ -1,7 +1,7 @@
 ---
 title: Sensible Transfers:Liverpool
 date: 2024-07-28
-hero: /images/Liverpool_FC.svg.png
+hero: /images/Liverpool_FC.svg
 excerpt: Who Should liverpool sign this window
 timeToRead: 2
 authors:
