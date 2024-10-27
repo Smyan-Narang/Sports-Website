@@ -1,8 +1,8 @@
 ---
-title: Sensible Transfers:Liverpool
-date: 2024-07-28
-hero: /images/liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-thumbnail-removebg-preview.png
-excerpt: Who Should liverpool sign this window
+title: Sensible Transfers:Manchester United
+date: 2024-07-19
+hero: /images/Liverpool_FC.svg
+excerpt: Who Should Manchester United sign this window
 timeToRead: 2
 authors:
   - Smyan Narang
