@@ -42,7 +42,7 @@ David Hancko plays as a left sided center back in a back 3, and has really bloss
 
 ## Transfers for the RW Backup
 
-This role isn't meant to simply be a backup to Mohommad Salah, but to also be a potential long term replacement for Salah. However, getting a potential long term Salah replacement in this market is extremely tough, with the only one that currently seems feasible is Mohommad Kudus, but even he will have a large price tag. Due to this, I have a feeling that Liverpool will most likely invest in a pure Salah backup and try their best to renew Salah's contract, provided his performance is still good. So here's a list of good backups to Salah, even if they aren't identical in terms of playing style to Salah, but can still offer a similiar impact.
+Ideally, This role isn't meant to simply be a backup to Mohommad Salah, but to also be a potential long term replacement for Salah. However, getting a potential long term Salah replacement in this market is extremely tough, with the only one that currently seems feasible is Mohommad Kudus, but even he will have a large price tag. Due to this, I have a feeling that Liverpool will most likely invest in a pure Salah backup and try their best to renew Salah's contract, provided his performance is still good. So here's a list of good backups to Salah, even if they aren't identical in terms of playing style to Salah, but can still offer a similiar impact.
 
 1.**Federico Chiesa**
 
