@@ -58,7 +58,7 @@ Ousmane Diomande is a young center back who plays for Sporting CP. Diomande's st
 
 2.**Leny Yoro**
 
-Leny Yoro is a center back who United have been linked to a lot, and rightly so. He has a sense of calm in his game, and that reflect in his defensive technique as well as his numbers on the ball. While he doesn't make a lot of tackles, He is a very smart player who reads the game and makes sure that he doesn't need to commit a risky challenge to get out of a tough situation. he's a very modern center back, and it also reflects in his ability on the ball, where he isn't someone who's gonna take too many risks in posession, but is solid in build up and is a very agile dribbler who can carry the ball forward consistently. He is valued at 55m, and would be a phenomenal Varane replacement in my opinion
+Leny Yoro is a center back who United have been linked to a lot, and rightly so. He has a sense of calm in his game, and that reflect in his defensive technique as well as his numbers on the ball. While he doesn't make a lot of tackles, he is a very smart player who reads the game and makes sure that he doesn't need to commit a risky challenge to get out of a tough situation. he's a very modern center back, and it also reflects in his ability on the ball, where he isn't someone who's gonna take too many risks in posession, but is solid in build up and is a very agile dribbler who can carry the ball forward consistently. He is valued at 55m, and would be a phenomenal Varane replacement in my opinion. 
 
 ## Transfers for the ST backup/competition
 
