@@ -47,4 +47,4 @@ However, India’s captaincy in the WT20 Final was also marked by effective choi
 
 India’s victory in the WT20 Final also came down to moments of brilliance and a touch of luck. Suryakumar Yadav’s spectacular catch exemplified athleticism and quick reflexes, shifting momentum back in India’s favor at a crucial juncture. Such individual contributions, combined with sound strategy, helped India withstand South Africa’s challenges.
 
-In sum, India’s contrasting performances in these finals reflect the importance of strategic versatility, solid field settings, and sharp decision-making under pressure. The calculated adjustments and well-executed tactics in the WT20 Final enabled India to break their trophy drought, proving their evolution as a team capable of learning from past experiences.
+In sum, India’s contrasting performances in these finals reflect the importance of strategic versatility, solid field settings, and sharp decision-making under pressure. The calculated adjustments and well-executed tactics in the WT20 Final enabled India to break their trophy drought, proving their evolution as a team capable of learning from past experiences
