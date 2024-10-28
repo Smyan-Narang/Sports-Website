@@ -1,7 +1,7 @@
 ---
 title: How India finally ended their trophy drought
 date: 2024-07-31
-hero: /images/pe10AjTW_400x400.jpg
+hero: /images/india-lift-the-t20-world-cup-trophy-v0-zvctev4s7k9d1.jpeg
 excerpt: Comparing tactics used in the 2023 ODI WC final and the 2024 World T20 final
 timeToRead: 2
 authors:

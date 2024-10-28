@@ -1,7 +1,7 @@
 ---
 title: How do Manchester City cope without Rodri
 date: 2024-10-16
-hero: /images/madridlogo.webp
+hero: /images/GAj2-OAO_400x400.jpg
 excerpt: How much will City be affected by Rodri's injury
 timeToRead: 2
 authors:

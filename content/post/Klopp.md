@@ -1,7 +1,7 @@
 ---
 title: Why Klopp is the perfect Anti-Pep
 date: 2024-05-25
-hero: /images/madridlogo.webp
+hero: /images/26rorynewsletter-klopp-01-vlkt-articleLarge.jpeg
 excerpt: Celebrating the end of an amazing rivalry
 timeToRead: 2
 authors:

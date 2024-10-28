@@ -1,6 +1,6 @@
 ---
 title: The curious case of KL Rahul
-date: 2024-07-31
+date: 2024-08-05
 hero: /images/pe10AjTW_400x400.jpg
 excerpt: What led to India's brightest spark losing confidence and form
 timeToRead: 2
