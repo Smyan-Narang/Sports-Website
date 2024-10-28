@@ -41,4 +41,4 @@ Primarily playing alongside Granit Xhaka at Leverkusen, Palacios has also proven
 
 Palacios’ versatility would allow him to cover for Rodri when needed, while simultaneously giving Kovacic meaningful competition. Additionally, under Pep Guardiola, he could develop further as a creative No. 8, similar to how Declan Rice evolved into a complete box-to-box midfielder under Mikel Arteta at Arsenal. Palacios’ positioning, skill in tight spaces, and vision in the final third would make him an ideal candidate to work alongside or even replace Rodri, as City navigates the challenges of a long and demanding season.
 
-In the long run, a player like Palacios would not only strengthen City’s midfield depth but also provide tactical options that increase their resilience and flexibility, ensuring they can better cope when Rodri is unavailable.
+In the long run, a player like Palacios would not only strengthen City’s midfield depth but also provide tactical options that increase their resilience and flexibility, ensuring they can better cope when Rodri is unavailable
